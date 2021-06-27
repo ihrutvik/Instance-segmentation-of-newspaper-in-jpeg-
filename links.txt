@@ -1,0 +1,26 @@
+I have attached the links to all related code files and the demo video is available in the google drive down below link.
+
+Link for RussianDataset (Newspaper Segmentation) (Includes segmentation of articles and images only).
+https://colab.research.google.com/drive/1ddtGioN_hT0mMsER4UgzXMAHADr8bldv?usp=sharing
+
+Link for Manually masked segmentation with RGB image input.
+https://colab.research.google.com/drive/1D5KDqIfVt-rZjw-NV27piHko5-hFE1rw?usp=sharing
+
+Link for DCT Transformation of RGB Image.
+https://colab.research.google.com/drive/1ZhfaRGFbsUyO0w5mgKtCuQhM5FekEDMo?usp=sharing
+
+Link for Manually masked segmentation with DCT image input.
+https://colab.research.google.com/drive/1mxcXtOlQ_fqKaLb41HyKWilgEOmzOcrN?usp=sharing
+
+Link for Manually masked segmentation with DCT image and RGB masked image input.
+https://colab.research.google.com/drive/1K9qRzWE0PrkLomHj5Exc0yoGaskkrlAn?usp=sharing
+
+Google Drive Link for DEMO VIDEO and ALL DATASET we worked on.
+https://drive.google.com/drive/folders/103Cmu-Z7MZanQ1yLnv_3YTNf9mO2HG2m?usp=sharing
+
+Latex code link for IEEE report on Instance Segmentation of Newspaper in JPEG Domain.
+https://www.overleaf.com/read/cfpdnhpczyfk
+
+Latex code link for project report Instance Segmentation of Newspaper in JPEG Domain.
+https://www.overleaf.com/2443578579cdcvycpvjmxt
+
